@@ -1,0 +1,27 @@
+{
+  "description": "SKOL is an exciting Play-to-Earn project set in the captivating realm of Vikings. With a vibrant Viking theme, SKOL combines NFTs and immersive gameplay to offer players a thrilling gaming experience. Built on the Ethereum blockchain, SKOL ensures secure transactions and a thriving in-game economy.",
+  "links": [
+    {
+       "type": "link",
+       "name": "X/Twitter",
+       "url": "https://twitter.com/SKOL_ERC20"
+     },
+     {
+       "type": "link",
+       "name": "Telegram",
+       "url": "https://t.me/SKOLofficial"
+     },
+     {
+       "type": "token",
+       "name": "SKOL",
+       "chain": "eth",
+       "address": "0xb369daca21ee035312176eb8cf9d88ce97e0aa95"
+     }
+  ],
+  "copy": {
+   "chain": "eth",
+   "address": "0xb369daca21ee035312176eb8cf9d88ce97e0aa95",
+   "keys": ["description"]
+  },
+  "icon": "icon.png"
+}
